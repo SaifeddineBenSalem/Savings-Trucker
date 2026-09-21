@@ -269,7 +269,7 @@ No screenshots are currently included in the repository. The project currently s
 
 ## 🎥 Video Demo
 
-[▶️ Check video here](https://www.youtube.com/watch?v=8n1Aon7T7XM)
+[▶️ Check video here](https://www.youtube.com/shorts/ELZjSDoYR00)
 
 ## ⚙️ Installation
 
