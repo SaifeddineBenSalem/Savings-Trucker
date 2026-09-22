@@ -263,13 +263,6 @@ Important directories:
 - [lib/data/services/storage_service.dart](lib/data/services/storage_service.dart) manages the Hive box and JSON serialization
 - [test/savings_engine_test.dart](test/savings_engine_test.dart) covers the domain logic and validation rules
 
-## 📸 Screenshots
-
-No screenshots are currently included in the repository. The project currently ships without a dedicated screenshots or demo image directory.
-
-## 🎥 Video Demo
-
-[▶️ Check video here](https://www.youtube.com/shorts/ELZjSDoYR00)
 
 ## ⚙️ Installation
 
@@ -485,3 +478,13 @@ LinkedIn: [https://www.linkedin.com/in/saifeddine-ben-salem-7947021ba/](https://
 ---
 
 This README reflects the current repository state and the verified implementation in the codebase. It intentionally documents only functionality that is present in the project and does not assume features that are not implemented.
+
+
+
+## 📸 Screenshots
+
+No screenshots are currently included in the repository. The project currently ships without a dedicated screenshots or demo image directory.
+
+## 🎥 Video Demo
+
+[▶️ Check video here](https://www.youtube.com/shorts/ELZjSDoYR00)
