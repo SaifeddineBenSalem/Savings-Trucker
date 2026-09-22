@@ -479,12 +479,27 @@ LinkedIn: [https://www.linkedin.com/in/saifeddine-ben-salem-7947021ba/](https://
 
 This README reflects the current repository state and the verified implementation in the codebase. It intentionally documents only functionality that is present in the project and does not assume features that are not implemented.
 
+## 🎥 Video Demo
+
+[▶️ Check video here](https://www.youtube.com/shorts/ELZjSDoYR00)
 
 
 ## 📸 Screenshots
 
-No screenshots are currently included in the repository. The project currently ships without a dedicated screenshots or demo image directory.
+## 📸 Screenshots
 
-## 🎥 Video Demo
+### Front page.
+![Front page](photos/1.jpg)
 
-[▶️ Check video here](https://www.youtube.com/shorts/ELZjSDoYR00)
+### List of actions
+![List of actions](photos/2.jpg)
+
+### List of actions
+![List of actions](photos/5.jpg)
+
+### Statistic page
+![Statistic page](photos/4.jpg)
+
+### Resetting data
+![Resetting data](photos/3.jpg)
+
