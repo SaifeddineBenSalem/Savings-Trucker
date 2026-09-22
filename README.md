@@ -486,7 +486,6 @@ This README reflects the current repository state and the verified implementatio
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
 ### Front page.
 ![Front page](photos/1.jpg)
